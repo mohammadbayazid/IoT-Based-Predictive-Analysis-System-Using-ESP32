@@ -1,0 +1,20 @@
+# Local Wi-Fi credentials (NEVER commit real credentials)
+secrets.h
+
+# Arduino & PlatformIO build artifacts
+.pio/
+build/
+*.bin
+*.elf
+*.map
+*.hex
+*.d
+*.o
+
+# IDE & OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*~
